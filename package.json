@@ -1,0 +1,22 @@
+{
+  "name": "javascript-template",
+  "version": "1.0.0",
+  "description": "template for javascript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamie-sherriff/javascript-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamie-sherriff/javascript-template/issues"
+  },
+  "homepage": "https://github.com/jamie-sherriff/javascript-template#readme",
+  "dependencies": {
+    "eslint": "*"
+  }
+}
